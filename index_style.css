@@ -4,15 +4,16 @@ body{
   background: #93AE5D;
   
 }
-h1{
+.name{
 font-weight: 700;
   
 }
 .tagline{
-  font-family: 'Englebert',sans-serif;color: #69467D;
+  font-family: 'Englebert',sans-serif;font-size:75%; color: #69467D;
+  overflow:auto;
 }
 .pictures{
-  margin-top: 80px;
+  margin-top: 15px;
   text-align: center;
   width="70" height="70";
 }
