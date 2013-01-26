@@ -1,5 +1,5 @@
 body{
-  font-family: 'News Cycle', sans-serif;color: #FFF;font-size: 200%;
+  font-family: 'Julius Sans One', sans-serif;color: #FFF;font-size: 200%;
   text-align: center;
   background: #93AE5D;
   
@@ -7,4 +7,12 @@ body{
 h1{
 font-weight: 700;
   
+}
+.tagline{
+  font-family: 'Englebert',sans-serif;color: #69467D;
+}
+.pictures{
+  margin-top: 80px;
+  text-align: center;
+  width="70" height="70";
 }
