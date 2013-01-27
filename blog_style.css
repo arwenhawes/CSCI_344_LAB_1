@@ -1,0 +1,29 @@
+body{
+  font-family:'Julius Sans One', sans-serif;color: #FFF;font-size: 200%;
+  background: #BB8FD3;
+}
+
+.content{
+  
+}
+
+.header{
+  text-align: center; font-size:400%;
+  color:#fff;
+  background: #BBBB64;
+}
+
+.subheader{
+  background: #FCEDA6;
+  font-size:50%;
+  
+}
+
+.blog{
+  color: #69467D;
+  
+}
+
+.sidebar{
+  background: #FCEDA6;
+}
