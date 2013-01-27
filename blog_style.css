@@ -1,29 +1,36 @@
 body{
-  font-family:'Julius Sans One', sans-serif;color: #FFF;font-size: 200%;
+  font-family:'Julius Sans One', sans-serif;color: #FFF;font-size: 100%;
   background: #BB8FD3;
 }
 
 .content{
-  
 }
 
 .header{
-  text-align: center; font-size:400%;
-  color:#fff;
+  font-family: 'Julius Sans One', sans-serif;color: #FFF;font-size: 400%;
+  text-align:center;
   background: #BBBB64;
+  padding: .02em;
+  /*margin-top:0;*/
 }
 
 .subheader{
-  background: #FCEDA6;
-  font-size:50%;
-  
+  font-family: 'Englebert',sans-serif;font-size:100%;color: #FCEDA6;
+  background: #6E971D;
+  padding: 5px;
 }
 
 .blog{
   color: #69467D;
+  float: left;
+  width:65%;
   
 }
 
 .sidebar{
-  background: #FCEDA6;
+  background: #6E971D;
+  font-size:100%; color: #FCEDA6;
+  padding-left: 10px;
+  float: right;
+  width: 30%;
 }
