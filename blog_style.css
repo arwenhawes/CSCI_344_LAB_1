@@ -15,7 +15,7 @@ font-family:'Julius Sans One', sans-serif;color: #FFF;/*font-size: 100%;*/
 }
 
 .subheader{
-  font-family: 'Englebert',sans-serif;font-size:150%;color: #FCEDA6;
+  font-size:150%;color: #FCEDA6;
   background: #6E971D;
   padding: 7px;
   word-spacing: 15px;
@@ -44,5 +44,5 @@ font-family:'Julius Sans One', sans-serif;color: #FFF;/*font-size: 100%;*/
   left:15px;
 }
 .about{
-  font-size: 25%;
+  font-size: 50%;
 }
