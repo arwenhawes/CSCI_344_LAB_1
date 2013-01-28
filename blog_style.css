@@ -2,8 +2,11 @@ body{
 font-family:'Julius Sans One', sans-serif;color: #FFF;
   background: #BB8FD3;
 }
-
 .content{
+  padding: 0px;
+  margin: 0px;
+  line-height: 1;
+  border:0;
 }
 
 .header{
@@ -21,6 +24,8 @@ font-family:'Julius Sans One', sans-serif;color: #FFF;
   word-spacing: 15px;
 }
 
+
+
 .blog{
   color: #69467D;
   float: left;
@@ -28,21 +33,27 @@ font-family:'Julius Sans One', sans-serif;color: #FFF;
   position:relative;
   left:20px;
   padding: 0px;
-  
 }
 
 .sidebar{
   background: #93AE5D;
   font-size:100%; color: #FCEDA6;
-  padding-left: 10px;
+  padding-left: 5px;
   float: right;
   width: 30%;
 }
 
-.sidebar_p{
+.sidebar h2{
+  padding-left:5px;
+}
+
+.sidebar li{
   position:relative;
-  left:15px;
+  left:30px;
 }
 .about{
-  font-size: 50%;
+  font-size: 75%;
+}
+.about p{
+  padding: 15px;
 }
