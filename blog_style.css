@@ -1,5 +1,5 @@
 body{
-font-family:'Julius Sans One', sans-serif;color: #FFF;/*font-size: 100%;*/
+font-family:'Julius Sans One', sans-serif;color: #FFF;
   background: #BB8FD3;
 }
 
@@ -7,16 +7,16 @@ font-family:'Julius Sans One', sans-serif;color: #FFF;/*font-size: 100%;*/
 }
 
 .header{
-  font-family: 'Julius Sans One', sans-serif;color: #FFF;font-size: 400%;
+  font-family: 'Julius Sans One', sans-serif;color: #FCEDA6;font-size: 400%;
   text-align:center;
-  background: #BBBB64;
+  background: #93AE5D;
   padding: .02em;
   /*margin-top:0;*/
 }
 
 .subheader{
   font-size:150%;color: #FCEDA6;
-  background: #6E971D;
+  background: #D8F4A1; /*#6E971D;*/
   padding: 7px;
   word-spacing: 15px;
 }
@@ -32,7 +32,7 @@ font-family:'Julius Sans One', sans-serif;color: #FFF;/*font-size: 100%;*/
 }
 
 .sidebar{
-  background: #6E971D;
+  background: #93AE5D;
   font-size:100%; color: #FCEDA6;
   padding-left: 10px;
   float: right;
