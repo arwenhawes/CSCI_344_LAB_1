@@ -8,8 +8,14 @@ font-family:'Julius Sans One', sans-serif;color: #FFF;
   line-height: 1;
   border:0;
 }
+.content h1{
+  font-size:150%;
+}
+.content h2{
+  font-size:125%;
+}
 
-.header{
+.header {
   font-family: 'Julius Sans One', sans-serif;color: #FCEDA6;font-size: 400%;
   text-align:center;
   background: #93AE5D;
@@ -34,7 +40,9 @@ font-family:'Julius Sans One', sans-serif;color: #FFF;
   left:20px;
   padding: 0px;
 }
-
+.blog p{
+  margin-bottom:5px;
+}
 .sidebar{
   background: #93AE5D;
   font-size:100%; color: #FCEDA6;
